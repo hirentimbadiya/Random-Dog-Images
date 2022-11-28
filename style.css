@@ -8,6 +8,9 @@
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 53;
 }
+body{
+    background-color:bisque;
+}
 #dogBtn:hover{
     color: white;
     font-size: 1.4rem;
