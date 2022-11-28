@@ -1,0 +1,22 @@
+#dogBtn{
+    padding: 2%;
+    border-radius: 10%;
+    border: 2px solid black;
+    color: rgb(47, 255, 75);
+    background-color: black;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 53;
+}
+#dogBtn:hover{
+    color: white;
+    font-size: 1.4rem;
+    cursor: pointer;
+    background-image: linear-gradient(purple,blue);
+}
+.outer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
