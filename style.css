@@ -1,12 +1,13 @@
 #dogBtn{
-    padding: 2%;
-    border-radius: 8%;
+    padding: 10px 20px 10px 20px;
+    -moz-border-radius: 28;
+    border-radius: 28px;
     border: 2px solid black;
     color: rgb(47, 255, 75);
     background-color: black;
     font-size: 1.3rem;
     font-family: 'Times New Roman', Times, serif;
-    margin-bottom: 53;
+    margin-bottom: 5px;
 }
 body{
     background-color:bisque;
